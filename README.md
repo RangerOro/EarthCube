@@ -1,0 +1,2 @@
+# EarthCube
+server related things
